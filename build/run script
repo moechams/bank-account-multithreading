@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc -o bank_system assignment5.c -pthread
+echo "Compiled successfully. Run with: ./bank_system"
